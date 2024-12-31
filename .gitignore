@@ -1,0 +1,16 @@
+.DS_Store
+*.xcodeproj
+Project.xcconfig
+obj
+browse.db
+browse.db-shm
+browse.db-wal
+dr-mantis
+
+# wildcards
+*.app
+*.exe
+*.plist
+*.log
+*.dll.code-workspace
+*.code-workspace
