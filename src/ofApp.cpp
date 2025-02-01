@@ -65,27 +65,27 @@ void ofApp::keyPressed(int key)
   }
   if (key == '1')
   {
-    zoom += 0.1f;
+    zoom += 0.01f;
   }
   if (key == '2')
   {
-    zoom -= 0.1f;
+    zoom -= 0.01f;
   }
   if (key == '3')
   {
-    offsetX += 0.1f;
+    offsetX += 0.01f;
   }
   if (key == '4')
   {
-    offsetX -= 0.1f;
+    offsetX -= 0.01f;
   }
   if (key == '5')
   {
-    offsetY += 0.1f;
+    offsetY += 0.01f;
   }
   if (key == '6')
   {
-    offsetY -= 0.1f;
+    offsetY -= 0.01f;
   }
 }
 
